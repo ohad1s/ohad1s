@@ -1,7 +1,7 @@
 
 ### :fire: My Stats :
 
-[https://github-readme-streak-stats.herokuapp.com/?user=ohad1s](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+https://github-readme-streak-stats.herokuapp.com/?user=Ohad Shirazi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
